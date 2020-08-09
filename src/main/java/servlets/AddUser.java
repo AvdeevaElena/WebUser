@@ -6,6 +6,8 @@ import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
 
+// TEST 09.08 THis strin new
+
 public class AddUser extends Dispatcher {
 
     public String getServletInfo(){
